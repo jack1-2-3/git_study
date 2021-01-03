@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAP,kEAAO",
+    "sources": [
+        "../git_study/assets/styles/style.scss",
+        "../git_study/assets/styles/setting/_setting.scss",
+        "../git_study/assets/styles/mixin/_mixin.scss",
+        "../git_study/assets/styles/base/_base.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
